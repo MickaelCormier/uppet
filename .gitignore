@@ -1,0 +1,26 @@
+__pycache__/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# VS Code
+.history
+.vscode
+
+# local
+data
+log
+output
+*.ipynb
+runs

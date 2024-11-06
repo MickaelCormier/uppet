@@ -1,0 +1,3 @@
+[flake8]
+   exclude = tools/train.py, tools/test.py, configs/*, mmpose/*
+   max-line-length = 119

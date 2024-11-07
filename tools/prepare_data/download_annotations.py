@@ -12,7 +12,7 @@ class UPPETAnnotationsDownloader:
         },
     }
 
-    def __init__(self, _path="data/annotations/"):
+    def __init__(self, _path="data/"):
         self.base_dir = _path
         self._create_directories()
 
